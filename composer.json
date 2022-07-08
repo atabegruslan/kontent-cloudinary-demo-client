@@ -1,0 +1,7 @@
+{
+    "require": {
+        "kentico/kontent-delivery-sdk-php": "^5.0",
+        "nesbot/carbon": "^2.57",
+        "devcoder-xyz/php-dotenv": "^1.1"
+    }
+}
